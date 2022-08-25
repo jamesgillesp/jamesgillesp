@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jamesgillesp
+- 👀 I’m interested in data, analytics and amazing facts
+- 🌱 I’m currently learning how to 
+- 💞️ I’m looking to collaborate on data engineering projects and best practices
+- 📫 How to reach me - find me on https://www.linkedin.com/in/jamesgillesp/
